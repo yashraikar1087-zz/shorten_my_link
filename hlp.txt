@@ -1,0 +1,11 @@
+ref system is a construct in react which references a DomProperty using a variable
+
+to remove package from meteor use meteor remove (package-name)
+
+insecure package need to be removed to stop default behavior of meteor
+
+usually define meteor method to update in the same file where collection is present.
+
+meteor methods upadte on server and client side automatically for us
+
+use valid-url package to validate urls from npm
